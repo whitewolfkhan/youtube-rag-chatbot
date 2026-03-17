@@ -1,7 +1,3 @@
-"""
-YouTube Transcript Extraction Module
-"""
-
 from typing import List, Dict, Optional
 from utils import extract_video_id, clean_text
 
