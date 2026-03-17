@@ -1,7 +1,3 @@
-"""
-Embedding Generation Module using Sentence Transformers
-"""
-
 from typing import List, Optional
 from sentence_transformers import SentenceTransformer
 import config
