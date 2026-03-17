@@ -1,7 +1,3 @@
-"""
-RAG Chain Module - Retrieval-Augmented Generation Pipeline
-"""
-
 from typing import List, Dict, Optional
 from groq import Groq
 import config
