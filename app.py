@@ -1,7 +1,3 @@
-"""
-YouTube RAG Chatbot - Streamlit Application
-"""
-
 import streamlit as st
 from config import APP_TITLE, APP_ICON, TOP_K_RESULTS
 from transcript import transcript_extractor
