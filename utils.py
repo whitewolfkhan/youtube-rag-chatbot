@@ -1,7 +1,3 @@
-"""
-Utility functions for YouTube RAG Chatbot
-"""
-
 import re
 from typing import Optional
 
