@@ -1,7 +1,3 @@
-"""
-Vector Store Module using FAISS
-"""
-
 from typing import List, Dict, Optional, Tuple
 import faiss
 import numpy as np
